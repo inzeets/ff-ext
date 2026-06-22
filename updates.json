@@ -12,7 +12,7 @@
     },
     "qs@inzee": {
       "updates": [
-        { "version": "2.3.0.1", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/search/6341fe1de4f943f98cc8-2.3.0.1.xpi" }
+        { "version": "2.3.0.2", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/search/6341fe1de4f943f98cc8-2.3.0.2.xpi" }
       ]
     }
   }
