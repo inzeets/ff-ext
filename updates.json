@@ -2,17 +2,17 @@
   "addons": {
     "tst-recency-heatmap@local": {
       "updates": [
-        { "version": "1.7.4", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/ext/heatmap/056c989fa16541108e2d-1.7.4.xpi" }
+        { "version": "1.7.4", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/heatmap/056c989fa16541108e2d-1.7.4.xpi" }
       ]
     },
     "tabswitcher@InZ": {
       "updates": [
-        { "version": "2.2.0.2", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/ext/tabswitcher/6b3bfd76d9d8477eb8f4-2.2.0.2.xpi" }
+        { "version": "2.2.0.2", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/tabswitcher/6b3bfd76d9d8477eb8f4-2.2.0.2.xpi" }
       ]
     },
     "qs@inzee": {
       "updates": [
-        { "version": "2.3.0.1", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/ext/search/6341fe1de4f943f98cc8-2.3.0.1.xpi" }
+        { "version": "2.3.0.1", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/search/6341fe1de4f943f98cc8-2.3.0.1.xpi" }
       ]
     }
   }
