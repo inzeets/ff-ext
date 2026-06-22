@@ -2,7 +2,7 @@
   "addons": {
     "tst-recency-heatmap@local": {
       "updates": [
-        { "version": "1.6", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/ext/heatmap/056c989fa16541108e2d-1.6.xpi" }
+        { "version": "1.7.4", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/ext/heatmap/056c989fa16541108e2d-1.7.4.xpi" }
       ]
     },
     "tabswitcher@InZ": {
