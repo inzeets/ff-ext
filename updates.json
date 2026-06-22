@@ -7,7 +7,7 @@
     },
     "tabswitcher@InZ": {
       "updates": [
-        { "version": "2.2.0.2", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/tabswitcher/6b3bfd76d9d8477eb8f4-2.2.0.2.xpi" }
+        { "version": "2.2.0.3", "update_link": "https://github.com/inzeets/ff-ext/raw/refs/heads/main/tabswitcher/6b3bfd76d9d8477eb8f4-2.2.0.3.xpi" }
       ]
     },
     "qs@inzee": {
